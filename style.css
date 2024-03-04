@@ -1,0 +1,17 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+.container{
+    display: grid;
+    grid-template-columns:100px 100px 100px 100px 100px ;
+    grid-template-rows:100px 100px 100px 100px 100px
+}
+.item1{
+    grid-row:1/1 ;
+    
+    grid-column:1/4;
+}
