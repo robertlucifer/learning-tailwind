@@ -94,13 +94,17 @@ body {
   display: grid;
   font-family: "Madimi One", sans-serif;
   font-size: 34px;
-  height: 10%;
+  height: 15%;
   grid-template-columns: 1fr;
   text-align: center;
+  padding: 2%;
 }
 .container2 {
   display: grid;
   grid-template-columns: 60% 40%;
-  height: 90vh;
+  height: 85vh;
   width: 100%;
+}
+.title2 {
+  font-size: 32px;
 }
