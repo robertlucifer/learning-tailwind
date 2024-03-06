@@ -54,7 +54,7 @@ body {
   justify-content: center;
 }
 .img1 {
-  width: 400px;
+  width: 500px;
   margin: auto;
   border-radius: 15px;
 }
@@ -90,21 +90,17 @@ body {
   grid-template-columns: 1fr 1fr;
   height: 100vh;
 }
-.container4 {
+.top-title {
   display: grid;
-  grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-  grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+  font-family: "Madimi One", sans-serif;
+  font-size: 34px;
+  height: 10%;
+  grid-template-columns: 1fr;
+  text-align: center;
 }
-.img2 {
-  grid-row: 2/3;
-  grid-row: 3/3;
-  width: 50px;
-  z-index: 1;
-  animation: spin 2s infinite linear;
-  background-color: transparent;
-}
-.img3 {
-  background-color: transparent;
-  grid-column: 2/5;
-  grid-row: 2/5;
+.container2 {
+  display: grid;
+  grid-template-columns: 60% 40%;
+  height: 90vh;
+  width: 100%;
 }
