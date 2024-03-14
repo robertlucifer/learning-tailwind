@@ -5,7 +5,7 @@ function lookupWord() {
   const searchWord = wordInput.value.toLowerCase().trim(); // Ensure case-insensitive search and remove leading/trailing spaces
 
   if (!searchWord) {
-    definition.textContent = "Please enter a word to look up.";
+    definition.textContent = "Hey enter your first name or nickname that you and me alone know🌈🌈";
     return;
   }
 
@@ -19,7 +19,7 @@ function lookupWord() {
     darshana:
       "The most perfect person I have ever seen in my life, It was a great experience to share my college days with and really liked the late night calls, work, project and chat. I have no words to explain about the perfect. I am really happy to start my career with you. I am happy that I got my two good friends in my professional life in future, you are one of them. You have support me and many people in college, I have to thank you for that. I wouldn't have completed my records in-time without you. I am very much excited to share future days with you buddy. I am always there for help, life you helped me.😊 Thanks for everything on behalf of me and everyone.",
     tharini:
-      "The best friendship I have made in my college life is you akka, you are a irreplaceable bond with me. I have never taught to care",
+      "The best friendship I have made in my college life is you akka, you are a irreplaceable bond with me. I have never taught I will find a this great bond in my college life, I am really happy that I share my SIH with you learned a lot, had a great time with you each and everyday sis. I will be missing you a lot in future. Thanks for giving me a great friend Karthika. I am always there to support you akka, anytime anywhere.😄😄. ",
     world: "The planet Earth and its inhabitants.",
     example: "An instance or illustration used to demonstrate something.",
   };
