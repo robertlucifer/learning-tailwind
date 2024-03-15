@@ -33,7 +33,7 @@ body {
 }
 .navbar {
   display: grid;
-  grid-template-columns: 10% 60% 15% 15%;
+  grid-template-columns: 15% 55% 15% 15%;
   grid-template-rows: 50px;
 }
 .text1 {
@@ -160,4 +160,52 @@ body {
   padding-top: 5%;
   padding-left: 5%;
   padding-right: 5%;
+}
+@media only screen and (max-width: 480px) {
+  .navbar {
+    display: grid;
+    grid-template-columns: 1fr 0fr 1fr 1fr;
+    grid-template-rows: 70px;
+  }
+  .text3 {
+    padding: 8px 15px;
+    background-color: red;
+    border-radius: 5px;
+    font-size: 16px;
+    color: white;
+  }
+  .text2 {
+    font-style: normal;
+    font-size: 12px;
+    margin: auto;
+    padding-left: 10px;
+    font-weight: bold;
+  }
+  .text1 {
+    font-size: 20px;
+  }
+  .main-page1 {
+    display: grid;
+    height: 84%;
+    grid-template-columns: 100%;
+    grid-template-rows: 50% 50%;
+  }
+  .title1 {
+    font-size: 36px;
+    margin-left: 5%;
+  }
+  .para1 {
+    margin: 0 5%;
+    margin-top: 2%;
+    font-size: 16px;
+  }
+  .img1 {
+    width: 400px;
+    margin: auto;
+    border-radius: 15px;
+  }
+  .stext {
+    font-weight: bold;
+    font-size: 20px;
+  }
 }
