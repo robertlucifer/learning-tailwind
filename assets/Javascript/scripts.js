@@ -1,3 +1,18 @@
+document.addEventListener('contextmenu', function(e) {
+  e.preventDefault();
+});
+document.onkeydown = function(e) {
+  if (  (e.ctrlKey && e.shiftKey && e.code === 'I') ||  // Ctrl+Shift+I
+        (e.keyCode === 123) ||                              // F12
+        (e.ctrlKey && e.code === 'J') ||                       // Ctrl+J (Chrome console)
+        (e.ctrlKey && e.shiftKey && e.code === 'J')             // Ctrl+Shift+J (DevTools)
+  ) {
+    e.preventDefault();
+  }
+  // Add similar checks for F12, Ctrl+Shift+J, etc.
+};
+
+
 const wordInput = document.getElementById("wordInput");
 const definition = document.getElementById("definition");
 
@@ -30,8 +45,8 @@ function lookupWord() {
     superman:
       "Hey Kiruthika, You were also a great friend to me in college, and you never forgot to torture me in all the way possible, but still you never gave up on me and so did I. I never thought we would be friends like this in the first year, but it happened. I am happy to have a friend like you. I am always there to help you anytime and anywhere. And unnoda marriage ku na confirm varuvan, so don't forget to invite me, And don't cry in future, if you have any problem just call me okay!.😊😊🌈",
     kiruthika: "Hey Kiruthika, epdi aa una na kupuduvan..?",
-    shaahin: "Hey ma..! enter the name only we two know..!",
-    twin: "Hey Shaahin, You are the best friend I got in college, I never thought that I could find someone like this to connect with me and share my thoughts. I am really happy that we met in college and had a really good friendship. I am always there to help you anytime and anywhere. I hope our friendship continues after college too. You can call me anytime to annoy me. I will be a great friend to you in all the possible. just 😊😊🌈",
+    shaahin: "Hey ma..! Enter the name only we two know..!",
+    twin: "Hey Shaahin, You are the best friend I got in college, I never thought that I could find someone like this to connect with me and share my thoughts. I am really happy that we met in college and had a really good friendship. I am always there to help you anytime and anywhere. I hope our friendship continues after college too. You can call me anytime to annoy me. I will be a great friend to you in all the possible. Keep me updated all-time and I will be there to help. And a small comment (I get possissive on you sometimes, but till now I am fine.. Sorry I wasn't able to tell you this in-person) 😊😊🌈",
   };
 
   if (dictionary.hasOwnProperty(searchWord)) {
