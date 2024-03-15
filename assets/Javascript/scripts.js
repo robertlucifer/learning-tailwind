@@ -2,7 +2,7 @@ const wordInput = document.getElementById("wordInput");
 const definition = document.getElementById("definition");
 
 function lookupWord() {
-  const searchWord = wordInput.value.toLowerCase().trim(); // Ensure case-insensitive search and remove leading/trailing spaces
+  const searchWord = wordInput.value.toLowerCase().trim().replace(/\s/g, ""); // Ensure case-insensitive search and remove leading/trailing spaces
 
   if (!searchWord) {
     definition.textContent =
@@ -24,7 +24,14 @@ function lookupWord() {
     karthika:
       "You are the next best person I got in my college, you have an irreplaceable bond you too sis. I still feel for getting your opportunity for SIH. I hope you too get the same experience we had in SIH next year. You can call me anytime for any help, I was there to help you with all my potential. I wanted you to develop your skills and get a real job. Enjoy your college life and be happy with your friends and, don't forget to call me anytime as a brother I am there to help.😊😊🌈",
     world: "The planet Earth and its inhabitants.",
-    example: "An instance or illustration used to demonstrate something.",
+    kuttysathan:
+      "Hey Gopika, Thanks for being a good friend to me in this college life and I am sorry for teasing you a lot, I am sorry for that. And stay in touch with me, and I am always there to help you guys. And I hope your friendship in college follows after college too.😊😊🌈",
+    gopika: "Hey gopika, type how do I call you..!",
+    superman:
+      "Hey Kiruthika, You were also a great friend to me in college, and you never forgot to torture me in all the way possible, but still you never gave up on me and so did I. I never thought we would be friends like this in the first year, but it happened. I am happy to have a friend like you. I am always there to help you anytime and anywhere. And unnoda marriage ku na confirm varuvan, so don't forget to invite me, And don't cry in future, if you have any problem just call me okay!.😊😊🌈",
+    kiruthika: "Hey Kiruthika, epdi aa una na kupuduvan..?",
+    shaahin: "Hey ma..! enter the name only we two know..!",
+    twin: "Hey Shaahin, You are the best friend I got in college, I never thought that I could find someone like this to connect with me and share my thoughts. I am really happy that we met in college and had a really good friendship. I am always there to help you anytime and anywhere. I hope our friendship continues after college too. You can call me anytime to annoy me. I will be a great friend to you in all the possible. just 😊😊🌈",
   };
 
   if (dictionary.hasOwnProperty(searchWord)) {
