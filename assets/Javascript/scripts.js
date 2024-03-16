@@ -46,18 +46,32 @@ function lookupWord() {
       "Hey Kiruthika, You were also a great friend to me in college, and you never forgot to torture me in all the way possible, but still you never gave up on me and so did I. I never thought we would be friends like this in the first year, but it happened. I am happy to have a friend like you. I am always there to help you anytime and anywhere. And unnoda marriage ku na confirm varuvan, so don't forget to invite me, And don't cry in future, if you have any problem just call me okay!.😊😊🌈",
     kiruthika: "Hey Kiruthika, epdi aa una na kupuduvan..?",
     shaahin: "Hey ma..! Enter the name only we two know..!",
-    twin: "Hey Shaahin, You are the best friend I got in college, I never thought that I could find someone like this to connect with me and share my thoughts. I am really happy that we met in college and had a really good friendship. I am always there to help you anytime and anywhere. I hope our friendship continues after college too. You can call me anytime to annoy me. I will be a great friend to you in all the possible. Keep me updated all-time and I will be there to help. And a small comment (I get possissive on you sometimes, but till now I am fine.. Sorry I wasn't able to tell you this in person) 😊😊🌈",
+    twin: "Hey Shaahin, You are the best friend I got in college, I never thought that I could find someone like this to connect with me and share my thoughts. I am really happy that we met in college and had a really good friendship. I am always there to help you anytime and anywhere. I hope our friendship continues after college too. You can call me anytime to annoy me. I will be a great friend to you in all the possible. Keep me updated all-time and I will be there to help. And a small comment (I get possessive on you sometimes, but till now I am fine.. Sorry I wasn't able to tell you this in person) 😊😊🌈",
     aravinthsuryaa:
-      "Hey Suryaa, You thought me games and many stuff like downloading moives, games and courses which helped me lot. And I happy that I got a friend who is differnet from others. Enjoy your future studies buddy, keep me updated and I am always there to help😊😊 ",
+      "Hey Suryaa, You taught me games and stuff like downloading movies, games and courses which helped me lot. And I happy that I have a friend who is different from others. Enjoy your future studies buddy, keep me updated and I am always there to help😊😊 ",
     balaprethiv:
-      "Dai bala, I have seen such ADHD person in my whole life.And everyday class became happy because of you. Thanks for being a member in hackathon and activites we have done together. And aborad poviyanu confirm thrila, pona sollu. As always be funny and enjoy buddy.🌈",
+      "Dai bala, I have never seen such an ADHD person in my whole life. And every day class became happy because of you. Thanks for being a member of the hackathon and the activities we have done together. And aborad poviyanu confirm thrila, pona sollu. As always be funny and enjoy buddy.🌈",
     dharineesh:
       "Hey buddy, Nee last vairukum ponuga kita persakudathu, atha tha ennode aasai, but still oru ponna mattum love pannu, if incase love panna soollu yennala enna pana mudiyumo ma pannuvan, help aa sonna. And had a great time sharing memories with you bro. And video editing and Memes aa vituratha pangu..!😊",
     gopinaath:
       "Hello Gopi, Learned a lot of lesson and characters for you buddy. And you are the most proper boy I have ever met in this college life. Future la ennga ponalum you can call me and I will help you with all the possible way. Thanks for all the help you made in this college life bro..!😊",
     tablet:
       "Hey jeeva shree., This is Robert a brother like friend, i never thought we could be this close friends but somehow now we are have a great bond.  You are the only friend who I can call as sister, I was there when you had hard time, Same like that I will be helping you all the time you can call me and feel free to share, I am always there to support you..!😊😊",
-      karthik:"Dai Karthik..,",
+    karthik:
+      "Dai Karthik.., epdiyo etha 3 year SKASC la cross pannita, ethuku appro Feberal bank la jolly aa iruka pora, but don't forget me buddy, Anytime you can make a call, and unoda laziness aa kami panniko.. You got my support all the time bro., Stay happy okay..!😊😊",
+    keerthanah:
+      "Hello buddy, We never talked much but still you were a good friend to me. Be happy and stay in touch.😊",
+    nandana:
+      "Hello Nandana, We never talked much and I never understood what you were trying to tell me, but still I am amazed by your talent o in drawing and handwriting. I hope you shine in the future and be happy.😊",
+    maheshraj:
+      "Hey mahesh raj..! I enjoyed your company in the room and fun we had together. I really want to appreciate your for the focus you had on gym and exercise. Never seen a guy who had this much focus in gym and devoted for that. Keep me updated bro., even after college okay buddy..!😊",
+    niranjani:
+      "Hey Niranjani, enter the name, how do I save your contact in my phone..!",
+    mayonnaise:
+      "Hey first I am sorry for teasing you recently, don't take it personal and I am sorry for talking like a idiot to you guys. Still you a friend to me, and stay happy😊😊.!",
+    pradeep:
+      "Hello Mr.Pradeep, You were a great friend to me. I am happy to have a friend like you. And nee etha help aa iruthalum call pannu bro I am always there to help you. And I hope you get a good job in the future and be happy. Keep me updated buddy..!😊",
+      saisakthicharan:"Hey Sai, You are the stupidest person and great friend to me, you helped me a lot in college and without you sure there is no fun in our class. Hope you join a good and be happy in life, stay in touch and keep me updated.😊.!",
   };
 
   if (dictionary.hasOwnProperty(searchWord)) {
