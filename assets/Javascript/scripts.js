@@ -73,7 +73,21 @@ function lookupWord() {
       "Hello Mr.Pradeep, You were a great friend to me. I am happy to have a friend like you. And nee etha help aa iruthalum call pannu bro I am always there to help you. And I hope you get a good job in the future and be happy. Keep me updated buddy..!😊",
     saisakthicharan:
       "Hey Sai, You are the stupidest person and a great friend to me, you helped me a lot in college and without you sure there is no fun in our class. Hope you join a good and be happy in life, stay in touch and keep me updated.😊.!",
-    rohit: "Hey Rohit, You are the best guy with multi-talent I have ever seen. And I am still a fan of your dance. I learned a lot from your attitude and the way you handle things. I hope you follow your dreams in the future. Stay in touch buddy..!😊 ",
+    rohit:
+      "Hey Rohit, You are the best guy with multi-talent I have ever seen. And I am still a fan of your dance. I learned a lot from your attitude and the way you handle things. I hope you follow your dreams in the future. Stay in touch buddy..!😊 ",
+    sandhiya: "Hey Sandhiya, unoda nickname aa type panni paru..!",
+    sundappalayaam:
+      "Hey Ms. Sandhiya, Recently you became a great friend to me. I have no idea how it happened, but still, I am happy to have a friend like you. I hope this bond lasts forever. Call me anytime to have a chit-chat even if it is mid night.I will never forget the ideathon we participated and many more incidents. Keep me updated and stay in touch dude..!😊",
+    sathishkummar:
+      "Hello Mahaprabhu..! Una marriya oru different aana friend aa na pathathu ila, but nee special and mass bro, I am happy to share my days and time with you in college, future la nee priya business owner aa irukanum. Eppovanlum nee call pannu bro na irukan help pana..! okay stay in touch bro..!😊",
+    selvaganapathi:
+      "Hello mams, From the first year to the final year, we were togather, had lot of fun and shared a lot of memories. But still we have a long path together in the future in the workplace too. You are also a good friend, I won't forget you..!😊  Future la job and work epdi irukunu oona papom mams, take care broo..!😊😊🌈",
+    selvavignesh:
+      "Hello bro.! You were a good friend to me.! and I am impressed by your dedication and hard work. I hope you have a great future and be happy. Always stay in touch with me buddy even if you go aborad..! okay..!😊",
+    sethuraj:
+      "Hello Sethu..! Neeyum Suryaa um tha games epdi download pannrathu and gamnig pathi solli kuduthathu and thanks for that. And never believe suryaa in any cause, okay ..! Have a great future journey bro..!😊",
+      shivaneshkumar:"Dai shivanesh unoda name aa na epdi save pannirukano atha name a type pannu..!"
+      cringe:"",
   };
 
   if (dictionary.hasOwnProperty(searchWord)) {
