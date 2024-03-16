@@ -54,9 +54,9 @@ function lookupWord() {
     dharineesh:
       "Hey buddy, Nee last vairukum ponuga kita persakudathu, atha tha ennode aasai, but still oru ponna mattum love pannu, if incase love panna soollu yennala enna pana mudiyumo ma pannuvan, help aa sonna. And had a great time sharing memories with you bro. And video editing and Memes aa vituratha pangu..!😊",
     gopinaath:
-      "Hello Gopi, Learned a lot of lesson and characters for you buddy. And you are the most proper boy I have ever met in this college life. Future la ennga ponalum you can call me and I will help you with all the possible way. Thanks for all the help you made in this college life bro..!😊",
+      "Hello Gopi, Learned a lot of lessons and characters for you buddy. And you are the most proper boy I have ever met in this college life. Future la ennga ponalum you can call me and I will help you with all the possible way. Thanks for all the help you made in this college life bro..!😊",
     tablet:
-      "Hey jeeva shree., This is Robert a brother like friend, i never thought we could be this close friends but somehow now we are have a great bond.  You are the only friend who I can call as sister, I was there when you had hard time, Same like that I will be helping you all the time you can call me and feel free to share, I am always there to support you..!😊😊",
+      "Hey jeeva shree., This is Robert a brother-like friend, I never thought we could be this close friend but somehow now we have a great bond.  You are the only friend who I can call a sister, I was there when you had a hard time, Same like that I will be helping you all the time you can call me and feel free to share, I am always there to support you..!😊😊",
     karthik:
       "Dai Karthik.., epdiyo etha 3 year SKASC la cross pannita, ethuku appro Feberal bank la jolly aa iruka pora, but don't forget me buddy, Anytime you can make a call, and unoda laziness aa kami panniko.. You got my support all the time bro., Stay happy okay..!😊😊",
     keerthanah:
@@ -64,14 +64,16 @@ function lookupWord() {
     nandana:
       "Hello Nandana, We never talked much and I never understood what you were trying to tell me, but still I am amazed by your talent o in drawing and handwriting. I hope you shine in the future and be happy.😊",
     maheshraj:
-      "Hey mahesh raj..! I enjoyed your company in the room and fun we had together. I really want to appreciate your for the focus you had on gym and exercise. Never seen a guy who had this much focus in gym and devoted for that. Keep me updated bro., even after college okay buddy..!😊",
+      "Hey mahesh raj..! I enjoyed your company in the room and the fun we had together. I really want to appreciate your for the focus you had on gym and exercise. Never seen a guy who had this much focus in the gym and was devoted to that. Keep me updated bro., even after college okay buddy..!😊",
     niranjani:
       "Hey Niranjani, enter the name, how do I save your contact in my phone..!",
     mayonnaise:
-      "Hey first I am sorry for teasing you recently, don't take it personal and I am sorry for talking like a idiot to you guys. Still you a friend to me, and stay happy😊😊.!",
+      "Hey first I am sorry for teasing you recently, don't take it personally and I am sorry for talking like an idiot to you guys. Still you a friend to me, and stay happy😊😊.!",
     pradeep:
       "Hello Mr.Pradeep, You were a great friend to me. I am happy to have a friend like you. And nee etha help aa iruthalum call pannu bro I am always there to help you. And I hope you get a good job in the future and be happy. Keep me updated buddy..!😊",
-      saisakthicharan:"Hey Sai, You are the stupidest person and great friend to me, you helped me a lot in college and without you sure there is no fun in our class. Hope you join a good and be happy in life, stay in touch and keep me updated.😊.!",
+    saisakthicharan:
+      "Hey Sai, You are the stupidest person and a great friend to me, you helped me a lot in college and without you sure there is no fun in our class. Hope you join a good and be happy in life, stay in touch and keep me updated.😊.!",
+    rohit: "Hey Rohit, You are the best guy with multi-talent I have ever seen. And I am still a fan of your dance. I learned a lot from your attitude and the way you handle things. I hope you follow your dreams in the future. Stay in touch buddy..!😊 ",
   };
 
   if (dictionary.hasOwnProperty(searchWord)) {
