@@ -86,8 +86,32 @@ function lookupWord() {
       "Hello bro.! You were a good friend to me.! and I am impressed by your dedication and hard work. I hope you have a great future and be happy. Always stay in touch with me buddy even if you go aborad..! okay..!😊",
     sethuraj:
       "Hello Sethu..! Neeyum Suryaa um tha games epdi download pannrathu and gamnig pathi solli kuduthathu and thanks for that. And never believe suryaa in any cause, okay ..! Have a great future journey bro..!😊",
-      shivaneshkumar:"Dai shivanesh unoda name aa na epdi save pannirukano atha name a type pannu..!"
-      cringe:"",
+    shivaneshkumar:
+      "Dai shivanesh unoda name aa na epdi save pannirukano atha name a type pannu..!",
+    cringe:
+      "Dai Cringe., nee ilana class avolo fun aa irukathu, and really you are good person bro.! stay in touch okay..!😊",
+    sivaprakash:
+      "Hello Siva, You always been the best and sway guy in our class, and I am happy to have a friend like you. Neeyum Bala combimation tha etha three year class fun iruthuchu. And you never gave upon something like etha project work..! So I was happy to have a great friend like you buddy, Have a great future, stay in touch..!😊",
+    sneha:
+      "Hey Sneha,  We never talked much but still you were a good friend to me. Be happy and stay in touch.😊",
+    arulhepzibeulah: "Hello Akka, ungaluku moli sir vicha name aa enter panuga",
+    faceoftheteam:
+      "Hello Hepzi akka, It was really a great experience for me travel and participate in SIH with you, I will never forget that experience. I hope you have a great future and be happy. Try to stay in touch and share any techonology you come across  okay..!😊",
+    jayasurya:
+      "Hey Jayasurya akka, Unga counter and comedies na miss panran akka, and I will never forget the fun you we had with moli you and raji akka., I am that i shared my SIH experience with you guys..! Stay in touch akka..!😊",
+    rajashree:
+      "Hey Raji akka, It was really a great experience for me to travel and participate in SIH with you. And I will miss our team so much..! stay in touch akka..! 😊",
+    subiksha:
+      "Hey Subiksha sis, from the first day I can't forget the fun and learning we had, happy that I got the opportunity to participate in sih with you guys. I hope you have a great future and be happy. Try to stay in touch and share any technology you come across  okay..!😊",
+    mohamedali: "Bro unga name ooda short form aa type pannuga..!",
+    moli: "Hey Bro.., You have no idea how much I respect you, You are my inspiration and I am really happy that I was able to participate in SIH with you and learned a lot of lessons and technology from you. I hope we stay in touch and develop a lot. Surely you are my inspiration and thanks for creating such a beautiful memory by this SIH trip..!😊",
+    alfiya:
+      "Hey Alfiya, I am happy we are friends, I have known you from the second year a lot, but we became friends in the third year. I wasn't spying, it is because you were that famous. So I hope you have a great future in the way you like and Thank you for all the help you did to me. I will miss you in future, so stay in touch okay..! I am always there to help anytime, anywhere..!🌈😊",
+    zahara:
+      "Hey Zahara, I never thought we would be friends but I am happy that now we are good friends. You really admired me, because you have the idea to develop your father's business, I hope that goes well in the future. Stay in touch and I am always there to help you out, so be happy..!😊",
+    aswathi:
+      "Hello Aswathi akka, I really miss the guitar class days, and now I have to go to job and I think won't to able to learn and play guitar again. And I will never forget you sis, I have never felt connected to someone like you on the exam day. I even had a crush on you🤫 (sister-crush), I hope you have a great future and be happy. Stay in touch akka..!🌈🌈😊 ",
+      
   };
 
   if (dictionary.hasOwnProperty(searchWord)) {
