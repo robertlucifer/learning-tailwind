@@ -54,14 +54,14 @@
       <div class="main-page1">
         <div>
           <p class="title1">Hello Guys👋</p>
-          <p class="para1">
+          <h1 class="para1">
             This is <span class="stext">Robert Antony</span>, you may or may not
             know me..!
             <br />
             I am creating this page to tell you what i have to tell, the whole
             purpose of this page is to convey a few words, which i may not able
             to tell you because of a situation..!
-          </p>
+          </h1>
           <br />
           <a href="#second-page" class="btn1">Explore</a>
         </div>
@@ -148,4 +148,27 @@
     </div> 
   </body>
   <script src="assets/Javascript/scripts.js"></script>
+  <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-analytics.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+  
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+      apiKey: "AIzaSyDlG0KPQ242VyePcy5QfoXNW44QplxY_dc",
+      authDomain: "robert-memories.firebaseapp.com",
+      projectId: "robert-memories",
+      storageBucket: "robert-memories.appspot.com",
+      messagingSenderId: "960278595338",
+      appId: "1:960278595338:web:4d31578d283f5a1d111cf3",
+      measurementId: "G-QK2Q5ENY2W"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+  </script>
 </html>

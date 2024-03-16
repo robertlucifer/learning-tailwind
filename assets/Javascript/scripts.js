@@ -31,9 +31,9 @@ function lookupWord() {
       "Hello, This is Robert Antony Guys, This is a simple web app to express my thoughts which I wasn't able to convey to you guys my situation.",
 
     vigas:
-      "The most important person I am going to miss in my life is you buddy, I have no idea how we got connected from the first, but never connected to anyone like you. Sharing all the awards and days with you is the best, and our conversation about life is the best. I learned a lot of lessons from you, I have no idea, how these 3 ended so soon. I always thought we could share our career but, It wasn't possible in this college, If something happens in the future, I will be so delighted I love you a lot buddy, and Don't forget to update anything that happens in your life, I am always there for you to support.😊 Thanks for everything, You have done many more things for which the word 'Thanks' isn't enough.",
+      "The most important person I am going to miss in my life is you buddy, I have no idea how we got connected from the first, but never connected to anyone like you. Sharing all the awards and days with you is the best, and our conversation about life is the best. I learned a lot of lessons from you, I have no idea, how these 3 years ended so soon. I always thought we could share our career but, It wasn't possible in this college, If something happens in the future, I will be so delighted, I love you a lot buddy, and Don't forget to update anything that happens in your life, I am always there for you to support.😊 Thanks for everything, You have done many more things for which the word 'Thanks' isn't enough.",
     darshana:
-      "The most perfect person I have ever seen in my life, It was a great experience to share my college days with and really liked the late-night calls, work, projects and chat. I have no words to explain about the perfect. I am really happy to start my career with you. I am happy that I have two good friends in my professional life in the future, you are one of them. You have supported me and many people in college, and I have to thank you for that. I wouldn't have completed my records in time without you. I am very excited to share future days with you buddy.😊 Thanks for everything on behalf of me and everyone.",
+      "The most perfect person I have ever seen in my life, It was a great experience to share my college days with and liked the late-night calls, work, projects and chat. I have no words to explain about the perfect. I am really happy to start my career with you. I am happy that I have two good friends in my professional life in the future, you are one of them. You have supported me and many people in college, and I have to thank you for that. I wouldn't have completed my records in time without you. I am very excited to share future days with you buddy.😊 Thanks for everything on behalf of me and everyone.",
     tharini:
       "The best friendship I have made in my college life is you akka, you have an irreplaceable bond with me. I have never thought I would find this great bond in my college life, I am really happy that I shared my SIH with you learned a lot, and had a great time with you every day with you sis. I will miss you a lot in the future. Thanks for giving me a great friend Karthika. I am always there to support you akka, anytime anywhere.😄😄. Thanks for everything akka.",
     karthika:
@@ -118,11 +118,10 @@ function lookupWord() {
     vashanthakumar:
       "Dai Vashatha kumar erruma, nee epdiyum phone panna matan, una friend nu solla mudiyala, but paravala , neeyum oru nala friend tha ennaku, mariyathu weekly once aachu call panra seri okay..!😊",
   };
-
   if (dictionary.hasOwnProperty(searchWord)) {
     definition.textContent = dictionary[searchWord];
   } else {
     definition.textContent =
-      "Hey sorry dude, If you don't find your special name, I might have forgotten to add, sorry for that, Can you pls drop a message using the form below so that I can add your speical content to this page..!😊😊🌈";
+      "Hey sorry dude, If you don't find your special comment, I might have forgotten to add, sorry for that, Can you pls drop a message using the form below so that I can add your special content to this page..!😊😊🌈";
   }
 }
