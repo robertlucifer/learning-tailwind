@@ -31,7 +31,7 @@ function lookupWord() {
       "Hello, This is Robert Antony Guys, This is a simple web app to express my thoughts which I wasn't able to convey to you guys my situation.",
 
     vigas:
-      "The most important person I am going to miss in my life is you buddy, I have no idea how we got connected from the first, but never connected to anyone like you. Sharing all the awards and days with you is the best, and our conversation about life is the best. I learned a lot of lessons from you, I have no idea, how these 3 ended so soon. I always thought we could share our career but, It wasn't possible in this college, If something happens in the future, I will be so delighted I love you a lot buddy, and Don't forget to update anything that happens in your life, I am always there for you to support.😊",
+      "The most important person I am going to miss in my life is you buddy, I have no idea how we got connected from the first, but never connected to anyone like you. Sharing all the awards and days with you is the best, and our conversation about life is the best. I learned a lot of lessons from you, I have no idea, how these 3 ended so soon. I always thought we could share our career but, It wasn't possible in this college, If something happens in the future, I will be so delighted I love you a lot buddy, and Don't forget to update anything that happens in your life, I am always there for you to support.😊 Thanks for everything, You have done many more things for which the word 'Thanks' isn't enough.",
     darshana:
       "The most perfect person I have ever seen in my life, It was a great experience to share my college days with and really liked the late-night calls, work, projects and chat. I have no words to explain about the perfect. I am really happy to start my career with you. I am happy that I have two good friends in my professional life in the future, you are one of them. You have supported me and many people in college, and I have to thank you for that. I wouldn't have completed my records in time without you. I am very excited to share future days with you buddy.😊 Thanks for everything on behalf of me and everyone.",
     tharini:
@@ -47,6 +47,17 @@ function lookupWord() {
     kiruthika: "Hey Kiruthika, epdi aa una na kupuduvan..?",
     shaahin: "Hey ma..! Enter the name only we two know..!",
     twin: "Hey Shaahin, You are the best friend I got in college, I never thought that I could find someone like this to connect with me and share my thoughts. I am really happy that we met in college and had a really good friendship. I am always there to help you anytime and anywhere. I hope our friendship continues after college too. You can call me anytime to annoy me. I will be a great friend to you in all the possible. Keep me updated all-time and I will be there to help. And a small comment (I get possissive on you sometimes, but till now I am fine.. Sorry I wasn't able to tell you this in person) 😊😊🌈",
+    aravinthsuryaa:
+      "Hey Suryaa, You thought me games and many stuff like downloading moives, games and courses which helped me lot. And I happy that I got a friend who is differnet from others. Enjoy your future studies buddy, keep me updated and I am always there to help😊😊 ",
+    balaprethiv:
+      "Dai bala, I have seen such ADHD person in my whole life.And everyday class became happy because of you. Thanks for being a member in hackathon and activites we have done together. And aborad poviyanu confirm thrila, pona sollu. As always be funny and enjoy buddy.🌈",
+    dharineesh:
+      "Hey buddy, Nee last vairukum ponuga kita persakudathu, atha tha ennode aasai, but still oru ponna mattum love pannu, if incase love panna soollu yennala enna pana mudiyumo ma pannuvan, help aa sonna. And had a great time sharing memories with you bro. And video editing and Memes aa vituratha pangu..!😊",
+    gopinaath:
+      "Hello Gopi, Learned a lot of lesson and characters for you buddy. And you are the most proper boy I have ever met in this college life. Future la ennga ponalum you can call me and I will help you with all the possible way. Thanks for all the help you made in this college life bro..!😊",
+    tablet:
+      "Hey jeeva shree., This is Robert a brother like friend, i never thought we could be this close friends but somehow now we are have a great bond.  You are the only friend who I can call as sister, I was there when you had hard time, Same like that I will be helping you all the time you can call me and feel free to share, I am always there to support you..!😊😊",
+      karthik:"Dai Karthik..,",
   };
 
   if (dictionary.hasOwnProperty(searchWord)) {
