@@ -58,13 +58,13 @@ function lookupWord() {
     tablet:
       "Hey jeeva shree., This is Robert a brother-like friend, I never thought we could be this close friend but somehow now we have a great bond.  You are the only friend who I can call a sister, I was there when you had a hard time, Same like that I will be helping you all the time you can call me and feel free to share, I am always there to support you..!😊😊",
     karthik:
-      "Dai Karthik.., epdiyo etha 3 year SKASC la cross pannita, ethuku appro Feberal bank la jolly aa iruka pora, but don't forget me buddy, Anytime you can make a call, and unoda laziness aa kami panniko.. You got my support all the time bro., Stay happy okay..!😊😊",
+      "Dai Karthik.., epdiyo etha 3-year SKASC la cross pannita, ethuku appro Feberal bank la jolly aa iruka pora, but don't forget me, buddy, Anytime you can make a call, and unoda laziness aa kami panniko.. You got my support all the time bro., Stay happy okay..!😊😊",
     keerthanah:
       "Hello buddy, We never talked much but still you were a good friend to me. Be happy and stay in touch.😊",
     nandana:
       "Hello Nandana, We never talked much and I never understood what you were trying to tell me, but still I am amazed by your talent o in drawing and handwriting. I hope you shine in the future and be happy.😊",
     maheshraj:
-      "Hey mahesh raj..! I enjoyed your company in the room and the fun we had together. I really want to appreciate your for the focus you had on gym and exercise. Never seen a guy who had this much focus in the gym and was devoted to that. Keep me updated bro., even after college okay buddy..!😊",
+      "Hey Mahesh raj..! I enjoyed your company in the room and the fun we had together. I want to appreciate your for the focus you had on gym and exercise. Never seen a guy who had this much focus in the gym and was devoted to that. Keep me updated bro., even after college okay buddy..!😊",
     niranjani:
       "Hey Niranjani, enter the name, how do I save your contact in my phone..!",
     mayonnaise:
@@ -77,30 +77,30 @@ function lookupWord() {
       "Hey Rohit, You are the best guy with multi-talent I have ever seen. And I am still a fan of your dance. I learned a lot from your attitude and the way you handle things. I hope you follow your dreams in the future. Stay in touch buddy..!😊 ",
     sandhiya: "Hey Sandhiya, unoda nickname aa type panni paru..!",
     sundappalayaam:
-      "Hey Ms. Sandhiya, Recently you became a great friend to me. I have no idea how it happened, but still, I am happy to have a friend like you. I hope this bond lasts forever. Call me anytime to have a chit-chat even if it is mid night.I will never forget the ideathon we participated and many more incidents. Keep me updated and stay in touch dude..!😊",
+      "Hey Ms. Sandhiya, Recently you became a great friend to me. I have no idea how it happened, but still, I am happy to have a friend like you. I hope this bond lasts forever. Call me anytime to have a chit-chat even if it is midnight. I will never forget the ideathon we participated in and many more incidents. Keep me updated and stay in touch dude..!😊",
     sathishkummar:
       "Hello Mahaprabhu..! Una marriya oru different aana friend aa na pathathu ila, but nee special and mass bro, I am happy to share my days and time with you in college, future la nee priya business owner aa irukanum. Eppovanlum nee call pannu bro na irukan help pana..! okay stay in touch bro..!😊",
     selvaganapathi:
-      "Hello mams, From the first year to the final year, we were togather, had lot of fun and shared a lot of memories. But still we have a long path together in the future in the workplace too. You are also a good friend, I won't forget you..!😊  Future la job and work epdi irukunu oona papom mams, take care broo..!😊😊🌈",
+      "Hello mams, From the first year to the final year, we were together, had a lot of fun and shared a lot of memories. But still, we have a long path together in the future in the workplace too. You are also a good friend, I won't forget you..!😊  Future la job and work epdi irukunu oona papom mams, take care broo..!😊😊🌈",
     selvavignesh:
-      "Hello bro.! You were a good friend to me.! and I am impressed by your dedication and hard work. I hope you have a great future and be happy. Always stay in touch with me buddy even if you go aborad..! okay..!😊",
+      "Hello bro.! You were a good friend to me.! and I am impressed by your dedication and hard work. I hope you have a great future and be happy. Always stay in touch with me buddy even if you go abroad..! okay..!😊",
     sethuraj:
-      "Hello Sethu..! Neeyum Suryaa um tha games epdi download pannrathu and gamnig pathi solli kuduthathu and thanks for that. And never believe suryaa in any cause, okay ..! Have a great future journey bro..!😊",
+      "Hello Sethu..! Neeyum Suryaa um tha games epdi download pannrathu and gaming pathi solli kuduthathu and thanks for that. And never believe suryaa in any cause, okay ..! Have a great future journey bro..!😊",
     shivaneshkumar:
       "Dai shivanesh unoda name aa na epdi save pannirukano atha name a type pannu..!",
     cringe:
-      "Dai Cringe., nee ilana class avolo fun aa irukathu, and really you are good person bro.! stay in touch okay..!😊",
+      "Dai Cringe., nee ilana class avolo fun aa irukathu, and you are good person bro.! Stay in touch okay..!😊",
     sivaprakash:
-      "Hello Siva, You always been the best and sway guy in our class, and I am happy to have a friend like you. Neeyum Bala combimation tha etha three year class fun iruthuchu. And you never gave upon something like etha project work..! So I was happy to have a great friend like you buddy, Have a great future, stay in touch..!😊",
+      "Hello Siva, You always been the best and sway guy in our class, and I am happy to have a friend like you. Neeyum Bala combimation tha etha three year class fun iruthuchu. And you never gave up on something like etha project work..! So I was happy to have a great friend like you buddy, Have a great future, Stay in touch..!😊",
     sneha:
       "Hey Sneha,  We never talked much but still you were a good friend to me. Be happy and stay in touch.😊",
     arulhepzibeulah: "Hello Akka, ungaluku moli sir vicha name aa enter panuga",
     faceoftheteam:
-      "Hello Hepzi akka, It was really a great experience for me travel and participate in SIH with you, I will never forget that experience. I hope you have a great future and be happy. Try to stay in touch and share any techonology you come across  okay..!😊",
+      "Hello Hepzi akka, It was a great experience for me to travel and participate in SIH with you, I will never forget that experience. I hope you have a great future and be happy. Try to stay in touch and share any technology you come across  okay..!😊",
     jayasurya:
-      "Hey Jayasurya akka, Unga counter and comedies na miss panran akka, and I will never forget the fun you we had with moli you and raji akka., I am that i shared my SIH experience with you guys..! Stay in touch akka..!😊",
+      "Hey Jayasurya akka, Unga counter and comedies na miss panran akka, and I will never forget the fun you we had with moli and raji akka., I am glad that I shared my SIH experience with you guys..! Stay in touch akka..!😊",
     rajashree:
-      "Hey Raji akka, It was really a great experience for me to travel and participate in SIH with you. And I will miss our team so much..! stay in touch akka..! 😊",
+      "Hey Raji akka, It was really a great experience for me to travel and participate in SIH with you. And I will miss our team so much..! Stay in touch akka..! 😊",
     subiksha:
       "Hey Subiksha sis, from the first day I can't forget the fun and learning we had, happy that I got the opportunity to participate in sih with you guys. I hope you have a great future and be happy. Try to stay in touch and share any technology you come across  okay..!😊",
     mohamedali: "Bro unga name ooda short form aa type pannuga..!",
@@ -110,13 +110,19 @@ function lookupWord() {
     zahara:
       "Hey Zahara, I never thought we would be friends but I am happy that now we are good friends. You really admired me, because you have the idea to develop your father's business, I hope that goes well in the future. Stay in touch and I am always there to help you out, so be happy..!😊",
     aswathi:
-      "Hello Aswathi akka, I really miss the guitar class days, and now I have to go to job and I think won't to able to learn and play guitar again. And I will never forget you sis, I have never felt connected to someone like you on the exam day. I even had a crush on you🤫 (sister-crush), I hope you have a great future and be happy. Stay in touch akka..!🌈🌈😊 ",
-      
+      "Hello Aswathi akka, I miss the guitar class days, and now I have to go to a job and I think won't to able to learn and play guitar again. And I will never forget you sis, I have never felt connected to someone like you on the exam day. I even had a crush on you🤫 (sister-crush), I hope you have a great future and be happy. Stay in touch akka..!🌈🌈😊 ",
+    lavanya:
+      "Hey Lavanya, I am a great fan of your song and I hope you will learn guitar. Hope you have a great future in the way you like. And a Secret message and not get me wrong for this, (I had a secret crush on you, from 2nd year) Don't take it seriously, I hope you have a great future and be happy. Stay in touch okay..!😊",
+    vedika:
+      "Hey Vedika, You were a great friend to me, and sharing thoughts with you was pleasant and great dude. I hope you have a great future and be happy. Stay in touch okay..!😊",
+    vashanthakumar:
+      "Dai Vashatha kumar erruma, nee epdiyum phone panna matan, una friend nu solla mudiyala, but paravala , neeyum oru nala friend tha ennaku, mariyathu weekly once aachu call panra seri okay..!😊",
   };
 
   if (dictionary.hasOwnProperty(searchWord)) {
     definition.textContent = dictionary[searchWord];
   } else {
-    definition.textContent = "Word not found in dictionary.";
+    definition.textContent =
+      "Hey sorry dude, If you don't find your special name, I might have forgotten to add, sorry for that, Can you pls drop a message using the form below so that I can add your speical content to this page..!😊😊🌈";
   }
 }
