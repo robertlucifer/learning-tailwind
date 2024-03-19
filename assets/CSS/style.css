@@ -12,18 +12,9 @@ html {
 }
 
 body::-webkit-scrollbar {
-  width: 10px;
+  width: 0px;
 }
 
-body::-webkit-scrollbar-track {
-  background: white;
-}
-
-body::-webkit-scrollbar-thumb {
-  background-color: #a5dd9b;
-  border-radius: 20px;
-  border: 3px solid #a5dd9b;
-}
 body {
   font-family: "Poppins", sans-serif;
 }
